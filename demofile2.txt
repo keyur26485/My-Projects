@@ -1,1 +1,2 @@
 "Initial Content" 
+"This is a further update to the demofile2" 
